@@ -2,5 +2,7 @@
 SIMPLE M.L. CHATBOT is from https://techwithtim.net/tutorials/ai-chatbot/part-1/
 
 1 - EDIT INTENTS.JSON WITH CUSTOM DATA.
+
 2 - TRAIN IT WITH TRAIN.PY
+
 3 - RUN INTERFACE.PY FOR ONE TO ONE CHAT WITH BOT.
